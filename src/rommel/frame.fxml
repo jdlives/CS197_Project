@@ -61,7 +61,7 @@
                                              </font>
                                           </Label>
                                           <PasswordField id="X_StudentNumber" fx:id="XStudentNumber" maxWidth="300.0" minHeight="27.0" minWidth="300.0" prefWidth="300.0" promptText="20xx-xxxxx" />
-                                          <Button fx:id="XSetAttendance" maxWidth="300.0" minWidth="300.0" mnemonicParsing="false" onAction="#buttonClicked" prefHeight="32.0" prefWidth="300.0" style="-fx-background-color: #172951;" text="Set Attendance" textFill="WHITE">
+                                          <Button fx:id="setAt2" maxWidth="300.0" minWidth="300.0" mnemonicParsing="false" onAction="#loadSecond" prefHeight="32.0" prefWidth="300.0" style="-fx-background-color: #172951;" text="Set Attendance" textFill="WHITE">
                                              <VBox.margin>
                                                 <Insets bottom="12.0" top="7.0" />
                                              </VBox.margin>
